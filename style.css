@@ -5,19 +5,19 @@ h1.h1 {
     text-align: center;
     color: red;
 }
-p.carta {
+div.carta {
     position: relative;
     top: 400px;
-    left: 1200px ;
+    left: 100px ;
 }
-p.cafe {
+div.cafe {
     position: relative;
     top: 200px;
-    left: 50%;
+    left: 600px;
 }
-p.contacte {
+div.contacte {
     position: relative;
     top: 400px;
-    left: 1600px ;
+    left: 1300px ;
 }
 
