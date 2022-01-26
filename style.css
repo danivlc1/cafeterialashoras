@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+}
+h1.h1 {
+    text-align: center;
+    color: red;
+}
+p.carta {
+    position: relative;
+    top: 400px;
+    left: 1200px ;
+}
+p.cafe {
+    position: relative;
+    top: 200px;
+    left: 50%;
+}
+p.contacte {
+    position: relative;
+    top: 400px;
+    left: 1600px ;
+}
+

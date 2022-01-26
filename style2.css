@@ -1,0 +1,12 @@
+body {
+    background-color: burlywood;
+}
+
+h1.carta {
+    text-align: center;
+    color: red;
+}
+
+p.main {
+    color: red;
+}
